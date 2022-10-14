@@ -539,3 +539,11 @@ html body #main-outlet {
 .topic-list .main-link.focused {
   box-shadow: none;
 }
+
+.alert.alert-info {
+    background-color: #24222e;
+    font-weight: 500;
+    border: 0.2px solid #5a5864;
+    border-radius: 5px;
+    border-style: outset;
+}
